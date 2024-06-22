@@ -11,7 +11,7 @@ class SocketServer:
     runflag = True
 
     def _init_(self):
-        print("Welcome..")
+        print("Welcome.. ")
 
     def sockactive(self,soc,socip):
         try:
