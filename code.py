@@ -68,3 +68,6 @@ class SocketServer:
   
                 self.runflag = False
                 break
+if __name__ == '__main__':
+	newobj = SocketServer()
+	newobj.main()
