@@ -9,8 +9,6 @@ git clone https://github.com/mohamed0yehia/Socket_Multiple_Users.git
 
 cd Socket_Multiple_Users
 
-pip3 install -r requirements.txt
-
 python3 code.py
 
 
