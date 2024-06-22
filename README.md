@@ -14,4 +14,4 @@ python3 code.py
 
 How to use
 
-After run the socket will be listening on Port 8888 you can make multiple users connect to it and send date that will be displayed in terminal
+After run the socket will be listening on Port 8888 you can make multiple users connect to it and send date that will be displayed in terminal, enter exit anytime to exit.
